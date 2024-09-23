@@ -13,3 +13,4 @@ C:\Users\davit\source\repos\Homework4\Homework4\obj\Debug\net5.0\refint\Homework
 C:\Users\davit\source\repos\Homework4\Homework4\obj\Debug\net5.0\Homework4.pdb
 C:\Users\davit\source\repos\Homework4\Homework4\obj\Debug\net5.0\Homework4.genruntimeconfig.cache
 C:\Users\davit\source\repos\Homework4\Homework4\obj\Debug\net5.0\ref\Homework4.dll
+C:\Users\davit\source\repos\Homework4\Homework4\obj\Debug\net5.0\Homework4.sourcelink.json

@@ -10,7 +10,7 @@ namespace Homework4
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.ForegroundColor = ConsoleColor.White;
 
-            // Clear to apply background color
+            //clear
             Console.Clear();
 
             // Print first and last name
@@ -21,9 +21,7 @@ namespace Homework4
             Console.Write("Enter your input: ");
             string userInput = Console.ReadLine();
 
-            // Print the user input
-            Console.WriteLine("You entered: " + userInput);
-
+            
 
             Console.ReadKey();
 
